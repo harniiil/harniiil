@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
+#  About Me:
 I'm currently learning Google Cloud, Machine learning, Python
 
 
